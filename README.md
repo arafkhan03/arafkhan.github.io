@@ -7,17 +7,17 @@
 - Bachelor of Business Administration, 2019 from University of Dhaka
 
 ## Research Work
-### Master's Thesis (10,000+ words): Evaluation of Different Missing Link Prediction Algorithms on Social Network Data using Node2Vec Feature Engineering
+### Master's Thesis (10,000+ words): Comparison of four missing link prediction algorithms on social network data using node2Vec feature engineering
 [Submitted for Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-Developed features using Node2vec using puclic network dataset to evaluate four different missing link prediction algorithms - Logistic Regression, Random Forest, Gaussian Naïve Bayes and Light Gradient Boosting Machine (LightGBM).
+Developed features using Node2vec using puclic network dataset to comapre the predictive performace of four different missing link prediction algorithms - Logistic Regression, Random Forest, Gaussian Naïve Bayes and Light Gradient Boosting Machine (LightGBM).
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
-### Bachelor's Internship Report: Analyzing the Revenue Stream and Developing a Revenue Forecast Model for Banglalink based on Time Series Analysis
+### Bachelor's Internship Report: Analyzing the revenue stream and developing a revenue forecast model for a telecommunication company based on time series analysis
 [Report](https://www.mdpi.com/1424-8220/22/11/4240)
 
-Worked on the project of Revenue Prediction Model by the BI & Analytics team which would predict each customer’s monthly revenue for any n month based on a linear regression model.
+Worked on the project of revenue prediction model by the BI & Analytics team which would predict each customer’s monthly revenue for any n month based on a linear regression model.
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
@@ -28,7 +28,7 @@ Exploration of the lifestyle and socioeconomic status of the housemaids in Dhaka
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
-### Using SERVQUAL to Assess Customer Satisfaction of Bangladeshi Superstores during COVID-19
+### Using servqual to assess customer satisfaction of Bangladeshi superstores during covid-19
 [Report](https://www.mdpi.com/1424-8220/22/11/4240)
 
 ![Bike Study](/assets/img/bike_study.jpeg)
