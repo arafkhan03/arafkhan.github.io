@@ -62,8 +62,8 @@ Exploration of the lifestyle and socioeconomic status of the housemaids in Dhaka
 - Worked on Revenue Prediction Model with Customer Cohort Analysis
 
 ## Project
-- Digitalization of Medical Prescription in Bangladesh, Officially accepted as a Mircosoft Imagine Cup startup project, 2023
-- Research Assistant to Dr. Ridhwanul Haq (Professor, IBA-DU) for a Government-funded project (a2i of Prime Minister's Office, Bangladesh), 2017
+- Digitalization of medical prescription in Bangladesh, officially accepted as a Mircosoft Imagine Cup startup project, 2023
+- Research assistant to Dr. Ridhwanul Haq (Professor, IBA-DU) for a government-funded project (a2i of Prime Minister's Office, Bangladesh), 2017
 
 ## Certification
 - Microsoft Certified: Azure AI Fundamentals
@@ -75,4 +75,4 @@ Exploration of the lifestyle and socioeconomic status of the housemaids in Dhaka
 - IELTS Academic Test Score: 8 out of 9
 
 ## Personal Data Projects
-- Bangladesh Region Wise Covid Cases, 2020
+- Bangladesh region-wise covid cases using leadlet (R package) 2020. Deployed [here](https://arafkhan03.github.io/BangladeshRegionWiseCovidCases/BDCovidCasesRegionwise.html)
