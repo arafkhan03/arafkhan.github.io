@@ -73,5 +73,3 @@ Exploration of the lifestyle and socioeconomic status of the housemaids in Dhaka
 ## Test Score
 - GRE General Test Score: 324 [Verbal 162, Quantitative 162) with Analytical Writing Score 5.0 out of 6.0
 - IELTS Academic Test Score: 8 out of 9
-
-- [Data Science Blog](https://medium.com/@shawhin)
