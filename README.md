@@ -8,48 +8,70 @@
 
 ## Work Experience
 **Data Scientist @ Skymount Property Group, Ohio, USA (_2023 - Present_)**
-- Developed lead generation system for the company which is cost efficient (drop of 97%) and consistent (20,000 leads per month versus 100 leads per month previously)
+- Developed lead generation system for the company which is cost-efficient (cost savings of ~85% compared to purchased leads) and consistent (20,000 leads per month versus 100 leads per month previously)
 - Developed and now maintaining the database and the end-to-end data pipeline of this completely Azure cloud-based lead generation system which incorporates advanced data cleaning & machine learning capabilities
-- Managing and overseeing the full workload of the data team for error handling and dashboard development in PowerBI
+- Managing and overseeing the workload of the data team for error handling and dashboard development in PowerBI
 
 **Data Analyst @ UNICEF Bangladesh (_2021 - 2022_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- Delivered the Country Programme Management Plan (CPMP) 2022-2026 for UNICEF's 5 year plan in Bangladesh
+- Created online collaboration tools for CPMP that were accessible on the internet. Managed inputs and edits from 30+ Organizational Units and over 300 regular staff while the office operated remotely
+- Conducted two successful sessions on “Advanced Data Analysis using Excel” for the whole Unicef Bangladesh
 
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+**Senior Data Analyst @ Technext Limited, Bangladesh (_2020 - 2021_)**
+- Developed dashboards and analyzed the customer lifetime value (CLV) to guide the decision-making process
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+**Assistant Manager - Analytics @ Shohoj Limited, Bangladesh (_2020 - 2021_)**
+- Developed customer profiling, credit scoring, and prediction models using Python, R, and SQL, based on extensive business data. These models were specifically tailored for the tickets vertical, currently the only profitable and sustainable vertical within the company's offerings
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+**Data Analyst @ Akhoni.com Limited, Bangladesh (_2019_)**
+- Enabled effective decision making by retrieving and aggregating data from multiple sources
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+**Business Intelligence & Analytics Intern @ Banglalink Digital Communications Ltd. (Parent Organization: VEON Ltd.), Bangladesh (_2019_)**
+- Worked on Revenue Prediction Model with Customer Cohort Analysis
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+## Research Work
+### Master's Thesis (10,000+ words): Evaluation of Different Missing Link Prediction Algorithms on Social Network Data using Node2Vec Feature Engineering
+[Submitted for Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+
+Developed features using Node2vec using puclic network dataset to evaluate four different missing link prediction algorithms - Logistic Regression, Random Forest, Gaussian Naïve Bayes and Light Gradient Boosting Machine (LightGBM).
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+### Bachelor's Internship Report: Analyzing the Revenue Stream and Developing a Revenue Forecast Model for Banglalink based on Time Series Analysis
+[Report](https://www.mdpi.com/1424-8220/22/11/4240)
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+Worked on the project of Revenue Prediction Model by the BI & Analytics team which would predict each customer’s monthly revenue for any n month based on a linear regression model.
 
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+![Bike Study](/assets/img/bike_study.jpeg)
+
+### Bangladeshi housemaids' in-depth lifestyle study
+[Report](https://www.mdpi.com/1424-8220/22/11/4240)
+
+Exploration of the lifestyle and socioeconomic status of the housemaids in Dhaka City.
+
+![Bike Study](/assets/img/bike_study.jpeg)
+
+### Using SERVQUAL to Assess Customer Satisfaction of Bangladeshi Superstores during COVID-19
+[Report](https://www.mdpi.com/1424-8220/22/11/4240)
+
+![Bike Study](/assets/img/bike_study.jpeg)
+
+### Studying the pattern of use of time and its consequences on CGPA and other academic performances
+[Report](https://www.mdpi.com/1424-8220/22/11/4240)
+
+![Bike Study](/assets/img/bike_study.jpeg)
+
+## Project
+- Digitalization of Medical Prescription in Bangladesh, Officially accepted as a Mircosoft Imagine Cup startup project, 2023
+- Research Assistant to Dr. Ridhwanul Haq (Professor, IBA-DU) for a Government-funded project (a2i of Prime Minister's Office, Bangladesh), 2017
+
+## Certification
+- Microsoft Certified: Azure AI Fundamentals
+- Mathematics for Machine Learning Specialization by Imperial College London (Coursera)
+- Introduction to Data Science Specialization by IBM (Coursera)
+
+## Test Score
+- GRE General Test Score: 324 [Verbal 162, Quantitative 162) with Analytical Writing Score 5.0 out of 6.0
+- IELTS Academic Test Score: 8 out of 9
 
 - [Data Science Blog](https://medium.com/@shawhin)
