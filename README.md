@@ -1,10 +1,11 @@
-# Data Scientist
+# Araf Toa Sanjeed Khan
+## Data Scientist
 
 #### Technical Skills: Python, SQL, R, Microsoft Azure, PowerBI, Excel
 
 ## Education
-- Master of Science in Applied Statistics | East West University, Dhaka (_2023_)								       		
-- Bachelor of Business Administration	| University of Dhaka (_2019_)
+- Master of Science in Applied Statistics, 2023 from East West University, Dhaka								       		
+- Bachelor of Business Administration, 2019 from University of Dhaka
 
 ## Research Work
 ### Master's Thesis (10,000+ words): Evaluation of Different Missing Link Prediction Algorithms on Social Network Data using Node2Vec Feature Engineering
